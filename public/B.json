@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "brand": "Gucci",
+    "image_url": "https://i.ibb.co/9qYdWjT/30.jpg",
+    "price":"100"
+  },
+  {
+    "id": 2,
+    "brand": "Nike",
+    "image_url": "https://i.ibb.co/f4NKPKs/31.jpg" ,
+    "price":"200"
+  },
+  {
+    "id": 3,
+    "brand": "Prada",
+    "image_url": "https://i.ibb.co/SnCpKT1/32.jpg",
+    "price":"300"
+  },
+  {
+    "id": 4,
+    "brand": "Calvin Klein",
+    "image_url": "https://i.ibb.co/Y73s3rd/33.jpg" ,
+    "price":"400"
+  },
+  {
+    "id": 5,
+    "brand": "Balenciaga",
+    "image_url": "https://i.ibb.co/tZzr7j2/34.jpg",
+    "price":"500"
+  },
+  {
+    "id": 6,
+    "brand": "Louis Vuitton",
+    "image_url": "https://i.ibb.co/v1RKWhg/35.jpg",
+    "price":"600"
+  }
+]
